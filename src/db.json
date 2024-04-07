@@ -1,0 +1,47 @@
+{
+  "employees": [
+    {
+      "id": 0,
+      "name": "Алексей",
+      "surname": "Максимишин",
+      "active": true
+    },
+    {
+      "id": 1,
+      "name": "Максим",
+      "surname": "Максимишин",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Иван",
+      "surname": "Иванов",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Игорь",
+      "surname": "Куприенко",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Тарас",
+      "surname": "Тарасов",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Али",
+      "surname": "Ашур",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Рашид",
+      "surname": "Гасанов",
+      "active": true
+    }
+  ],
+  "nextId": 10
+}
